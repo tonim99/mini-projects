@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+body {
+	font-size: 67.5%;
+	font-family: 'Indie Flower', cursive;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	overflow: hidden;
+	margin: 0;
+	background: linear-gradient(
+		180deg,
+		rgba(131, 58, 180, 1) 0%,
+		rgba(253, 29, 29, 1) 50%,
+		rgba(252, 176, 69, 1) 100%
+	);
+}
+
+h1 {
+	color: #fff;
+	font-size: 3.2rem;
+}
+.hearts {
+    font-size: 2.4rem;
+    color: rgba(253, 29, 29, 0.65);
+}
+.container {
+	display: flex;
+	width: 90vw;
+}
+.panel {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 80vh;
+	border-radius: 2rem;
+	color: #fff;
+	cursor: pointer;
+	flex: 0.5;
+	margin: 1rem;
+	position: relative;
+	transition: flex 0.7s ease-in;
+}
+
+.panel h3 {
+	font-size: 2.4rem;
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	margin: 0;
+	opacity: 0;
+}
+
+.panel.active {
+	flex: 5;
+}
+
+.panel.active h3 {
+	opacity: 1;
+	transition: opacity 0.3s ease-in 0.4s;
+}
+
+@media only screen and (max-width: 600px) {
+	.container {
+		width: 100vw;
+	}
+
+	.panel:nth-of-type(4),
+	.panel:nth-of-type(5) {
+		display: none;
+	}
+}
