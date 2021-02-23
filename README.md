@@ -1,12 +1,10 @@
 # Mini-projects
-----------
-
-Mini-projects to hone my front-end skills. 
-
-------------
 
 ## Expanding Cards
 
-----------
+Built with HTML/CSS/JavaScript
+
+Photos expand on click
+
 
 ![Expanding Cards](images/expanding-cards.png)
