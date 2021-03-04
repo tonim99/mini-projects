@@ -6,13 +6,11 @@ Built with HTML/CSS/JavaScript
 
 Photos expand on click
 
-
 ![Expanding Cards](images/expanding-cards.png)
 
 ## Progress Bar
 
 Built with HTML/CSS/JavaScript
-
 
 ![Progress Bar 1](images/progress-bar-1.png)
 ![Progress Bar 2](images/progress-bar-2.png)
@@ -25,7 +23,6 @@ Built with HTML/CSS/JavaScript
 
 Page rotates on click to show hidden nav
 
-
 ![Hidden Nav Closed](images/hidden-nav-closed.png)
 ![Hidden Nav Open](images/hidden-nav-open.png)
 
@@ -34,7 +31,6 @@ Page rotates on click to show hidden nav
 Built with HTML/CSS/JavaScript
 
 Search bar is revealed when the search icon is clicked
-
 
 ![Hidden Search Closed](images/hidden-search-closed.png)
 ![Hidden Search Open](images/hidden-search-open.png)
@@ -45,7 +41,6 @@ Built with HTML/CSS/JavaScript
 
 Background image comes into focus on load
 
-
 ![Blurry Loading](images/blurry-loading.gif)
 
 ## Scroll Animation
@@ -54,5 +49,12 @@ Built with HTML/CSS/JavaScript
 
 Content boxes come in from off screen on scroll
 
-
 ![Scroll Animation](images/scroll-animation.gif)
+
+## Split Landing Page
+
+Built with HTML/CSS/JavaScript
+
+Both halves of landing page expand on hover
+
+![Split Landing Page](images/split-landing-page.gif)
