@@ -47,3 +47,12 @@ Background image comes into focus on load
 
 
 ![Blurry Loading](images/blurry-loading.gif)
+
+## Scroll Animation
+
+Built with HTML/CSS/JavaScript
+
+Content boxes come in from off screen on scroll
+
+
+![Scroll Animation](images/scroll-animation.gif)
