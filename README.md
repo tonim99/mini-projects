@@ -38,3 +38,12 @@ Search bar is revealed when the search icon is clicked
 
 ![Hidden Search Closed](images/hidden-search-closed.png)
 ![Hidden Search Open](images/hidden-search-open.png)
+
+## Blurry Loading
+
+Built with HTML/CSS/JavaScript
+
+Background image comes into focus on load
+
+
+![Blurry Loading](images/blurry-loading.gif)
