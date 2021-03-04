@@ -28,3 +28,13 @@ Page rotates on click to show hidden nav
 
 ![Hidden Nav Closed](images/hidden-nav-closed.png)
 ![Hidden Nav Open](images/hidden-nav-open.png)
+
+## Hidden Search
+
+Built with HTML/CSS/JavaScript
+
+Search bar is revealed when the search icon is clicked
+
+
+![Hidden Search Closed](images/hidden-search-closed.png)
+![Hidden Search Open](images/hidden-search-open.png)
