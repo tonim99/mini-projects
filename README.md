@@ -66,3 +66,11 @@ Built with HTML/CSS/JavaScript
 Labels animate when the input is clicked
 
 ![Wavy Login](images/wavy-login.gif)
+
+## Rain Sounds
+
+Built with HTML/CSS/JavaScript
+
+Each button plays a different sound when clicked
+
+![Rain Sounds](images/rain-sounds.png)
