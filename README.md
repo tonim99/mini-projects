@@ -58,3 +58,11 @@ Built with HTML/CSS/JavaScript
 Both halves of landing page expand on hover
 
 ![Split Landing Page](images/split-landing-page.gif)
+
+## Wavy Login
+
+Built with HTML/CSS/JavaScript
+
+Labels animate when the input is clicked
+
+![Wavy Login](images/wavy-login.gif)
