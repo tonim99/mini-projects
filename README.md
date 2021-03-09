@@ -74,3 +74,11 @@ Built with HTML/CSS/JavaScript
 Each button plays a different sound when clicked
 
 ![Rain Sounds](images/rain-sounds.png)
+
+## Joke Generator
+
+Built with HTML/CSS/JavaScript
+
+A random joke is generated from a third-party API when the button is clicked
+
+![Joke Generator](images/random-joke-generator.png)
