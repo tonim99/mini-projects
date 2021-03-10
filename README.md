@@ -82,3 +82,11 @@ Built with HTML/CSS/JavaScript
 A random joke is generated from a third-party API when the button is clicked
 
 ![Joke Generator](images/random-joke-generator.png)
+
+## Event Keycodes
+
+Built with HTML/CSS/JavaScript
+
+Generates keyCodes on keypress
+
+![Event Keycodes](images/event-keycodes.png)
