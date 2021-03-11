@@ -90,3 +90,11 @@ Built with HTML/CSS/JavaScript
 Generates keyCodes on keypress
 
 ![Event Keycodes](images/event-keycodes.png)
+
+## FAQ
+
+Built with HTML/CSS/JavaScript
+
+Answers to questions show on icon click
+
+![FAQ](images/FAQ.png)
