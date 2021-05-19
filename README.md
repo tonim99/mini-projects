@@ -98,3 +98,19 @@ Built with HTML/CSS/JavaScript
 Answers to questions show on icon click
 
 ![FAQ](images/FAQ.png)
+
+## Collapsing Nav
+
+Built with HTML/CSS/JavaScript
+
+Nav collapses on icon click
+
+![Collapsing Nav](images/collapsing-nav.gif)
+
+## Increment Counter
+
+Built with HTML/CSS/JavaScript
+
+Counter 
+
+![Increment Counter](images/increment-counter.gif)
